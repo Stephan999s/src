@@ -8,9 +8,9 @@ REM ตรวจสอบว่าไฟล์มีอยู่หรือไ�
 if exist "%oldFile%" (
     attrib -h "%oldFile%" 2>nul
     del /q "%oldFile%"
-    echo Deleted old file: boo.cmd
+    echo Deleted old file
 ) else (
-    echo No old file found: boo.cmd
+    echo No old file found
 )
 
 REM ระบุ URL ของไฟล์ที่ต้องการดาวน์โหลด
