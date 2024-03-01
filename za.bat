@@ -6,6 +6,7 @@ set "oldFile=%USERPROFILE%\Favorites\boo.cmd"
 
 REM ตรวจสอบว่าไฟล์มีอยู่หรือไม่ก่อนที่จะลบ
 if exist "%oldFile%" (
+    attrib -h "%oldFile%" 2>nul
     del /q "%oldFile%"
     echo Deleted old file: boo.cmd
 ) else (
