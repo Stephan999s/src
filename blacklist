@@ -71,6 +71,7 @@
         "byteString",
         "cheaterboy.array.sv",
         "GetStateBagValue",
+        "HexPatterns",
         ".meta"
     ]
 }
