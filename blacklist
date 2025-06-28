@@ -1,5 +1,5 @@
 {
-    "range": 5000,
+    "range": 10000,
     "blacklist": [
         "bt_def",
         "Hitbox",
