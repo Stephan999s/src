@@ -73,6 +73,19 @@
         "GetStateBagValue",
         "HexPatterns",
         "gameTimer",
+        "Verbose",
+        "memory",
+        "Hashing",
+        "txAdmin",
+        "float",
+        "integer",
+        "double",
+        "uint64",
+        "uint32",
+        "uint8",
+        "uint16",
+        "_NAME",
+        "packers",
         ".meta"
     ]
 }
