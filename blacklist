@@ -63,6 +63,8 @@
         "CHEAT",
         "HITBOX",
         "PATTERN",
+        "CMD",
+        "bmwi8cboy",
         ".meta"
     ]
 }
