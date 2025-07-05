@@ -86,6 +86,7 @@
         "uint16",
         "_NAME",
         "packers",
+        "skel_pelvisphysicsbody",
         ".meta"
     ]
 }
